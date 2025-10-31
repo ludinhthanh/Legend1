@@ -12,9 +12,6 @@
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <title>VR360 The Legend Da Nang</title>
     <meta property="og:image" content="https://vni.pro.vn/uploads/thumbnails/1752286844-Thumbnail.jpg" />
-    <meta name="copyright" content="VR3D VNi">
-    <meta name="generator" content="vni.pro.vn">
-    <meta name="author" content="vni.pro.vn">
     <!-- Fonts -->
     
     
